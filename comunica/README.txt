@@ -1,0 +1,1 @@
+Para compilar basta digitar gcc servidor.c -o servidor e gcc cliente.c -o cliente
